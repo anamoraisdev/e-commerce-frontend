@@ -11,7 +11,8 @@ const config: Config = {
     colors: {
       'primary': '#ADBAC0',
       'secondary': '#AC005A',
-      'tertiary':  'white',
+      'complement': '#726D99',
+      'white' : 'white'
     },
     extend: {
     },
